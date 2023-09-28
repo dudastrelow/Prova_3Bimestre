@@ -1,0 +1,15 @@
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\bin\Debug\net6.0\Prova_3Bimestre.exe
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\bin\Debug\net6.0\Prova_3Bimestre.deps.json
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\bin\Debug\net6.0\Prova_3Bimestre.runtimeconfig.json
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\bin\Debug\net6.0\Prova_3Bimestre.dll
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\bin\Debug\net6.0\Prova_3Bimestre.pdb
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.csproj.AssemblyReference.cache
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.AssemblyInfoInputs.cache
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.AssemblyInfo.cs
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.dll
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\refint\Prova_3Bimestre.dll
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.pdb
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\Prova_3Bimestre.genruntimeconfig.cache
+C:\Users\Duda\source\repos\Prova_3Bimestre\Prova_3Bimestre\obj\Debug\net6.0\ref\Prova_3Bimestre.dll
